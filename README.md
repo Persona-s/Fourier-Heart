@@ -7,4 +7,7 @@ Fourier coefficients for x(t):
 Fourier coefficients for y(t):
   double[] anY = {13.0, -5.0, -2.0, -1.0, 4.24e-16}
   double[] bnY = {4.32e-16, 1.79e-15, -4.15e-15, 1.23e-15, 1.93e-15}
+
+
+I started out making this in Eclipse with JavaFX lib but switched to Processing as it made more sense for me.
 This was fun but tedious! 
